@@ -26,7 +26,7 @@ npm serve
 
 ## Credits
 
-- Inter font from [Unsplash](https://fonts.google.com/share?selection.family=Inter:wght@400;700)
+- Inter font from [Google Fonts](https://fonts.google.com/share?selection.family=Inter:wght@400;700)
 
 ## Misc
 
