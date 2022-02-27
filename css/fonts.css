@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/inter-v7-latin-regular.woff2') format('woff2'),
+       url('../fonts/inter-v7-latin-regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/inter-v7-latin-700.woff2') format('woff2'),
+       url('../fonts/inter-v7-latin-700.woff') format('woff');
+}
