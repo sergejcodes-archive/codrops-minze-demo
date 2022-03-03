@@ -2,11 +2,11 @@
 
 Demo of a fictive Smart Home dashboard application.
 
-[Article on Codrops](https://tympanus.net/codrops/?p=)
+![Screenshot](.github/img/screenshot.jpg)
+
+[Article on Codrops](https://tympanus.net/codrops/?p=58877)
 
 [Demo](http://tympanus.net/Development/.../)
-
-![Screenshot](assets/screenshot.jpg)
 
 ## Running
 

@@ -4,9 +4,15 @@
   "description": "",
   "license": "MIT",
   "scripts": {
-    "serve": "serve ."
+    "serve": "serve .",
+    "serve-dist": "serve dist/",
+    "bundle": "rimraf dist/ && rollup -c"
   },
   "devDependencies": {
+    "rimraf": "^3.0.2",
+    "rollup": "^2.69.0",
+    "rollup-plugin-copy": "^3.4.0",
+    "rollup-plugin-terser": "^7.0.2",
     "serve": "^13.0.2"
   }
 }
