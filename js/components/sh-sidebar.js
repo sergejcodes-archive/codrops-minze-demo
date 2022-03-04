@@ -1,24 +1,24 @@
 export class ShSidebar extends MinzeElement {
   html = () => `
     <div class="logo">
-      <img src="/assets/logo.svg">
+      <img src="assets/logo.svg">
     </div>
 
     <nav class="nav">
       <div class="nav__entry nav__entry--active">
-        <img src="/assets/icon-home.svg">
+        <img src="assets/icon-home.svg">
       </div>
 
       <div class="nav__entry">
-        <img src="/assets/icon-view-grid.svg">
+        <img src="assets/icon-view-grid.svg">
       </div>
 
       <div class="nav__entry">
-        <img src="/assets/icon-user.svg">
+        <img src="assets/icon-user.svg">
       </div>
 
       <div class="nav__entry">
-        <img src="/assets/icon-cog.svg">
+        <img src="assets/icon-cog.svg">
       </div>
     </nav>
   `

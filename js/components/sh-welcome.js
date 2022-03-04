@@ -11,7 +11,7 @@ export class ShWelcome extends MinzeElement {
       Set up automation
     </sh-button>
 
-    <img src="/assets/icon-sun.svg" class="icon">
+    <img src="assets/icon-sun.svg" class="icon">
   `
 
   css = () => `
