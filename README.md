@@ -6,7 +6,7 @@ Demo of a fictive Smart Home dashboard application.
 
 [Article on Codrops](https://tympanus.net/codrops/?p=58877)
 
-[Demo](http://tympanus.net/Development/.../)
+[Demo](http://tympanus.net/Tutorials/MinzeDemo/)
 
 ## Running
 
@@ -30,7 +30,7 @@ npm serve
 
 ## Misc
 
-Follow *Author*: [GitHub](https://github.com/sergejcodes)
+Follow Sergej: [GitHub](https://github.com/sergejcodes)
 
 Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops), [Instagram](https://www.instagram.com/codropsss/)
 
