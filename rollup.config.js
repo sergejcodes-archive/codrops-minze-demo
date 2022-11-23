@@ -1,4 +1,4 @@
-import { terser } from 'rollup-plugin-terser'
+import terser from '@rollup/plugin-terser'
 import copy from 'rollup-plugin-copy'
 
 export default {

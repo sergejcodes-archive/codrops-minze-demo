@@ -3,16 +3,17 @@
   "version": "1.0.0",
   "description": "",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "serve": "serve .",
     "serve-dist": "serve dist/",
     "bundle": "rimraf dist/ && rollup -c"
   },
   "devDependencies": {
+    "@rollup/plugin-terser": "^0.1.0",
     "rimraf": "^3.0.2",
-    "rollup": "^2.69.0",
+    "rollup": "^3.4.0",
     "rollup-plugin-copy": "^3.4.0",
-    "rollup-plugin-terser": "^7.0.2",
     "serve": "^13.0.2"
   }
 }
