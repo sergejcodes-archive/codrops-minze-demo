@@ -1,5 +1,9 @@
 # Minze Demo
 
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/sergejcodes/codrops-minze-demo?terminal=serve)
+
+## About
+
 Demo of a fictive Smart Home dashboard application.
 
 ![Screenshot](.github/img/screenshot.jpg)
