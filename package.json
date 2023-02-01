@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "@rollup/plugin-terser": "^0.2.1",
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.1.2",
     "rollup": "^3.8.1",
     "rollup-plugin-copy": "^3.4.0",
     "serve": "^14.1.2"
