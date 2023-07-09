@@ -10,7 +10,7 @@
     "bundle": "rimraf dist/ && rollup -c"
   },
   "devDependencies": {
-    "@rollup/plugin-terser": "^0.4.1",
+    "@rollup/plugin-terser": "^0.4.3",
     "rimraf": "^5.0.1",
     "rollup": "^3.21.7",
     "rollup-plugin-copy": "^3.4.0",
